@@ -8,3 +8,6 @@ class Lab320180444ApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
